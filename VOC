@@ -1,0 +1,30 @@
+Biểu mẫu khảo sát VOC - Dự án Lập danh sách học viên tham gia các khóa học
+1. Mục tiêu nghiệp vụ
+•	- Mục tiêu chính của chức năng lập danh sách học viên là gì?
+•	- Danh sách học viên này sẽ được sử dụng cho mục đích gì?
+•	- Ai là người sử dụng chính của chức năng này?
+2. Dữ liệu đầu vào
+•	- 3 file dữ liệu đầu vào là gì? Chúng bao gồm những thông tin nào?
+•	- Các file này có định dạng cố định không (Excel, CSV, v.v.)?
+•	- Có cần kiểm tra tính hợp lệ của dữ liệu đầu vào không?
+3. Điều kiện lọc
+•	- Người dùng cần lọc danh sách học viên theo những tiêu chí nào?
+•	- Có cần lọc theo nhiều điều kiện kết hợp không?
+•	- Có cần lưu lại các điều kiện lọc đã chọn để sử dụng lại không?
+4. Giao diện người dùng
+•	- Người dùng mong muốn giao diện như thế nào?
+•	- Có cần hiển thị trước danh sách học viên trước khi xuất file không?
+•	- Trạng thái “có học viên thi / không có học viên thi” nên được hiển thị như thế nào?
+5. Form output
+•	- Hai mẫu form output là gì? Có thể cung cấp mẫu không?
+•	- Có cần cho phép người dùng xem trước mẫu trước khi xuất không?
+•	- File xuất ra nên có định dạng gì? (Excel, PDF, CSV,...)
+6. Tên file và timestamp
+•	- Định dạng tên file mong muốn là gì?
+•	- Có cần lưu trữ lịch sử các file đã xuất không?
+7. Bảo mật và phân quyền
+•	- Ai có quyền sử dụng chức năng này?
+•	- Có cần phân quyền theo vai trò người dùng không?
+8. Kiểm thử và nghiệm thu
+•	- Ai sẽ là người kiểm thử chức năng này?
+•	- Tiêu chí nào để đánh giá chức năng là đạt yêu cầu?
