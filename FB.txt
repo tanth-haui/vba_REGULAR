@@ -1,0 +1,8 @@
+FB
+-Hợp nhất tool
+-giao diện chỉnh lại(mất chữ, thiếu xong wrap text)
+-tra lại e-learning có code ko
+-sửa thông báo input do lỗi font
+-Kiểm tra file Input có lọc không, có thì bỏ lọc rồi chạy
+-Thêm đánh số thứ tự điều kiện lọc(hoặc bôi màu khác nhau)
+-form output chỉnh lại->đã chỉnh
